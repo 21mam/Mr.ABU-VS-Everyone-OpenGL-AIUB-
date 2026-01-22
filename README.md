@@ -25,6 +25,11 @@ The game features a custom physics engine (gravity, friction, collision detectio
 *An alien planet featuring red terrain, laser traps, space mines, and a starry sky.*
 ![Level 3](screenshots/level3.png)
 
+### Main Character 
+![main character ](screenshots/maincharacter.png)
+
+
+
 ## ✨ Key Features
 
 * **Three Unique Levels:**
