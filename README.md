@@ -51,3 +51,10 @@ You need a C++ compiler (GCC/Clang) and the GLUT libraries installed.
 ```bash
 g++ main.cpp -o game -framework OpenGL -framework GLUT -Wno-deprecated
 ./game
+```
+---------------------------------------------------------------------------------------------
+## 👥 Project Team
+> **Department of Computer Science & Engineering, AIUB.**
+## MD ABU ZIMAM
+## ARIAN ESTINAB PARTHIB
+## FARIHA ZAMAN DIA
