@@ -11,6 +11,19 @@
 **Mr. ABU VS Everyone** is a 2D side-scrolling action platformer built entirely from scratch using C++ and the OpenGL (GLUT) library.
 
 The game features a custom physics engine (gravity, friction, collision detection), three distinct graphical themes, and challenging boss fights. It demonstrates the fundamentals of computer graphics, including primitive rendering, transformation, lighting, and state management, without relying on modern game engines.
+## 📸 Game Gallery
+
+### Level 1: The City of Shadows
+*An urban landscape featuring skyscrapers, industrial structures, and gothic spires.*
+![Level 1](screenshots/level1.png)
+
+### Level 2: The Ninja Grove
+*A nature-themed environment with dynamic cloud rendering, stone walls, and deep forests.*
+![Level 2](screenshots/level2.png)
+
+### Level 3: The Mars Base
+*An alien planet featuring red terrain, laser traps, space mines, and a starry sky.*
+![Level 3](screenshots/level3.png)
 
 ## ✨ Key Features
 
