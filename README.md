@@ -26,7 +26,7 @@ The game features a custom physics engine (gravity, friction, collision detectio
 ![Level 3](screenshots/level3.png)
 
 ### Main Character 
-![main character ](screenshots/maincharacter.png)
+![character](screenshots/character.png)
 
 
 
